@@ -1,1 +1,3 @@
-# blogging-platform-6426-6501
+# Project Repository
+
+This is the initial README file for the project.
