@@ -1,0 +1,21 @@
+{
+  "name": "userservice",
+  "version": "0.1.0",
+  "private": true,
+  "engines": { "node": ">=16" },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "jest --watchAll=false --runInBand --colors",
+    "lint": "eslint . --ext .js,.jsx"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "react-scripts": "^5.0.0"
+  },
+  "devDependencies": {
+    "jest": "^29.0.0"
+  },
+  "browserslist": [">0.2%","not dead","not op_mini all"]
+}
